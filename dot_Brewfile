@@ -1,5 +1,6 @@
 tap 'homebrew/cask-fonts'
 tap 'homebrew/cask-versions'
+tap 'stripe/stripe-cli'
 
 # Binaries
 brew 'git'
@@ -19,12 +20,15 @@ brew 'nvm'
 brew 'wget'
 brew 'zsh'
 brew 'starship'
+brew 'mkcert'
+brew 'stripe/stripe-cli/stripe'
 
 cask 'alfred'
 cask 'google-chrome'
 cask 'visual-studio-code'
 cask 'temurin'
 cask 'iterm2'
+cask 'ngrok'
 
 cask 'font-lato'
 cask 'font-open-sans'

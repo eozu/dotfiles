@@ -3,6 +3,7 @@ tap 'homebrew/cask-versions'
 
 # Binaries
 brew 'git'
+brew 'svn'
 brew 'chezmoi'
 brew 'bash' # Latest Bash version
 brew 'bat' # "cat" on steroids
@@ -22,13 +23,12 @@ brew 'starship'
 cask 'alfred'
 cask 'google-chrome'
 cask 'visual-studio-code'
-cask 'adoptopenjdk8'
+cask 'temurin'
 cask 'iterm2'
 
 cask 'font-lato'
 cask 'font-open-sans'
 cask 'font-roboto'
-cask 'font-roboto-condensed'
 cask 'font-source-code-pro-for-powerline'
 cask 'font-source-code-pro'
 cask 'font-source-sans-pro'

@@ -8,6 +8,7 @@ export EDITOR=/usr/bin/vim
 export HOMEBREW_NO_ANALYTICS=1
 export STARSHIP_CONFIG=~/.config/starship.toml
 
+
 if [ -x "$(command -v starship)" ]; then
 	eval "$(starship init zsh)"
 fi

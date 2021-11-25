@@ -32,6 +32,7 @@ cask 'ngrok'
 cask 'postman'
 cask 'microsoft-teams'
 cask 'google-cloud-sdk'
+cask 'docker'
 
 cask 'font-lato'
 cask 'font-open-sans'

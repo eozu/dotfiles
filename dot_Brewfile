@@ -22,6 +22,8 @@ brew 'zsh'
 brew 'starship'
 brew 'mkcert'
 brew 'stripe/stripe-cli/stripe'
+brew 'koekeishiya/formulae/skhd'
+brew 'koekeishiya/formulae/yabai'
 
 cask 'alfred'
 cask 'google-chrome'

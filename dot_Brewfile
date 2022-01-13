@@ -4,6 +4,7 @@ tap 'stripe/stripe-cli'
 
 # Binaries
 brew 'git'
+brew 'gh'
 brew 'svn'
 brew 'chezmoi'
 brew 'bash' # Latest Bash version
@@ -37,6 +38,7 @@ cask 'postman'
 cask 'microsoft-teams'
 cask 'google-cloud-sdk'
 cask 'docker'
+cask 'slack'
 
 cask 'font-lato'
 cask 'font-open-sans'

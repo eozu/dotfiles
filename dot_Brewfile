@@ -24,6 +24,7 @@ brew 'zsh'
 brew 'starship'
 brew 'mkcert'
 brew 'stripe/stripe-cli/stripe'
+brew 'flyctl'
 
 tap 'koekeishiya/formulae'
 brew 'skhd'
@@ -40,6 +41,7 @@ cask 'microsoft-teams'
 cask 'google-cloud-sdk'
 cask 'docker'
 cask 'slack'
+cask 'docker'
 
 brew 'maven'
 

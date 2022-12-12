@@ -26,7 +26,6 @@ brew 'mkcert'
 brew 'stripe/stripe-cli/stripe'
 brew 'flyctl'
 brew 'vim'
-brew 'google-cloud-sdk'
 brew 'yt-dlp'
 brew 'pandoc'
 
